@@ -1,3 +1,3 @@
-# Mandlebrot-coding-train
+# PENDULUM-ART-CODING TRAIN
 
-Mandlebrot set visualisation using P5 js
+Pendulum visualisation using P5 js
